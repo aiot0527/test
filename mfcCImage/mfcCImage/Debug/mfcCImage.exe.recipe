@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\C++poject\mfcCImage\Debug\mfcCImage.exe</FullPath>
+      <FullPath>C:\C++poject\test\mfcCImage\Debug\mfcCImage.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
